@@ -1,0 +1,19 @@
+[
+    {
+        "email": "alex@gmail.com",
+        "name": "Alex Johnson",
+        "password": "48a91f9bdbf4574fdfc1239c22d92265:100000:c5bd93628ff10be8de84ce8c3a34fec8baf324769cb74faa75ef15520ad95f6a514b6740fe9b87ea1fa808f5713e070e0e6566d74db98cb381acb8f986b68b26"
+    },
+    {
+        "email": "admin@gmail.com",
+        "password": "5955f0b432dabceacbdd299d211e2eb8:100000:6eb1fcdf5f98d26c62c7b0c58d80fb01676f25e7b5534ed4aea9f6da8d43cb680bcde8bbbf428b1800d12be31a9134b5a331299199216c0c3885e8aec9f8e713"
+    },
+    {
+        "email": "admin1@gmail.com",
+        "password": "8f89b68167252aadf1acd3279a0370b3:100000:87f2b85f5cbf62446f176baaa5cbb8660790e793e007b29d1047aafd3307f0a605ad4241cc89a6c330592fdbe89b054a48e2ab42cce5164944697cbce1ff027e"
+    },
+    {
+        "email": "jon@gmail.com",
+        "password": "b838dc20e209b47756b277fd5faed093:100000:6dd5a5663f2e72ef7e23f1300f2ed83a138812457f770e0ac6942d7791b1cd953f72d4de3924c3bb4eb802b7d48ff702aed4baee51480c382a2f952b5a1f129e"
+    }
+]
